@@ -41,3 +41,16 @@
 .categories img {
   width: 100px;
 }
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+#subscribe {
+  height: 300px;
+}
+#subscribe h6 {
+  color: gray;
+}
+footer {
+  text-align: center;
+}
